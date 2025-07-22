@@ -28,6 +28,7 @@ This repository contains my **Task 1** for the internship at **CodeTech**. The o
 📦 Task1_API_Integration
  ┣ 📄 Task1_API_Integration.ipynb
  ┗ 📄 README.md
+```
 
 ---
 
